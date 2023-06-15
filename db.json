@@ -1,0 +1,37 @@
+{
+  "services": [{ 
+    "id": 1, 
+    "title": "I will landscape your garden",
+    "thumbnailUrl": "http://localhost:9000/1.jpeg",
+    "rating": 4,
+    "specialist": { "id": 1, "fullName": "Earth"}
+  },
+  { 
+    "id": 2, 
+    "title": "I will landscape your garden",
+    "thumbnailUrl": "http://localhost:9000/2.jpeg",
+    "rating": 4,
+    "specialist": { "id": 1, "fullName": "Earth"}
+  },
+  { 
+    "id": 3, 
+    "title": "I will landscape your garden",
+    "thumbnailUrl": "http://localhost:9000/3.jpeg",
+    "rating": 4,
+    "specialist": { "id": 1, "fullName": "Earth"}
+  },
+  { 
+    "id": 4, 
+    "title": "I will landscape your garden",
+    "thumbnailUrl": "http://localhost:9000/4.jpeg",
+    "rating": 4,
+    "specialist": { "id": 2, "fullName": "Earthroll"}
+  },
+  { 
+    "id": 5, 
+    "title": "I will landscape your garden",
+    "thumbnailUrl": "http://localhost:9000/5.jpeg",
+    "rating": 4,
+    "specialist": { "id": 2, "fullName": "Earthroll"}
+  }]
+}

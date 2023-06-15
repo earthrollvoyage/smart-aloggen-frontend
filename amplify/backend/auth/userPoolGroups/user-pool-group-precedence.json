@@ -1,0 +1,18 @@
+[
+    {
+        "groupName": "Admin",
+        "precedence": 1
+    },
+    {
+        "groupName": "PM",
+        "precedence": 2
+    },
+    {
+        "groupName": "Engineer",
+        "precedence": 3
+    },
+    {
+        "groupName": "Visitor",
+        "precedence": 4
+    }
+]

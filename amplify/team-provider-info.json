@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartaloggenfrontend-dev-125130-authRole",
+      "UnauthRoleArn": "arn:aws:iam::482126180425:role/amplify-smartaloggenfrontend-dev-125130-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::482126180425:role/amplify-smartaloggenfrontend-dev-125130-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-smartaloggenfrontend-dev-125130-deployment",
+      "UnauthRoleName": "amplify-smartaloggenfrontend-dev-125130-unauthRole",
+      "StackName": "amplify-smartaloggenfrontend-dev-125130",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:482126180425:stack/amplify-smartaloggenfrontend-dev-125130/1d697280-32fc-11ec-8590-0acccaa3241a",
+      "AmplifyAppId": "d328beapo39ufr"
+    },
+    "categories": {
+      "auth": {
+        "smartaloggenfrontenddeeaed7a": {},
+        "userPoolGroups": {}
+      },
+      "function": {
+        "smartaloggenfrontenddeeaed7aPostConfirmation": {
+          "GROUP": "Visitor",
+          "deploymentBucketName": "amplify-smartaloggenfrontend-dev-125130-deployment",
+          "s3Key": "amplify-builds/smartaloggenfrontenddeeaed7aPostConfirmation-316d526b4f724d66484b-build.zip"
+        }
+      }
+    }
+  }
+}
